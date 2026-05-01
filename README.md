@@ -41,4 +41,4 @@ python guessing_game.py
 - `colorama` — colored terminal output
 
 ## Authors
-Dharshini| Synent Technologies Internship 2025
+Dharshini| Synent Technologies Internship 2026
