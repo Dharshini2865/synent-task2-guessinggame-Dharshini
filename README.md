@@ -40,5 +40,5 @@ python guessing_game.py
 - `random` — secret number generation
 - `colorama` — colored terminal output
 
-##Authors
+## Authors
 Dharshini| Synent Technologies Internship 2025
